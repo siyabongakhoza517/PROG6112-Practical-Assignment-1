@@ -1,6 +1,7 @@
 # PROG6112 Practical Assignment 1
 
-**Student:** siyabongakhoza517
+**Student name:** Siyabonga Khoza
+**Studet number:** ST10511331
 **Module:** PROG6112
 
 ## Section A - TV Series Management
